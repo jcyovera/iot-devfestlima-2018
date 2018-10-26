@@ -1,0 +1,24 @@
+{
+  "name": "alexa-ppt",
+  "version": "1.0.0",
+  "description": "Alexa ppt showing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "jcyovera"
+  },
+  "keywords": [
+    "Alexa",
+    "ppt",
+    "IoT"
+  ],
+  "author": "Juan Carlos Yovera Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "ws": "^6.1.0"
+  }
+}
